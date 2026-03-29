@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="id"> 
  <head> 
   <meta charset="UTF-8"> 
@@ -156,7 +155,7 @@ cursor:pointer;
    <br> <button class="checkout" onclick="checkout()">Checkout WhatsApp</button> 
   </div> 
   <script>
-const phone="6385923966539"
+const phone="6285923966539"
 
 const data = {
   "HEADLOCK":[
